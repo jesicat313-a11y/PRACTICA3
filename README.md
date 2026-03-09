@@ -1,6 +1,6 @@
 # Spotify Data Analysis
 
-## Descripción del proyecto
+Descripción del proyecto
 
 Este proyecto realiza un análisis exploratorio de datos (EDA) sobre un dataset
 relacionado con artistas, oyentes y canciones más reproducidas en Spotify.
@@ -8,7 +8,7 @@ relacionado con artistas, oyentes y canciones más reproducidas en Spotify.
 El objetivo del análisis es identificar patrones entre el número de streams,
 la popularidad de los artistas y el número de oyentes.
 
-## Dataset
+Dataset
 
 Los datasets utilizados en este proyecto son:
 
@@ -19,7 +19,7 @@ Los datasets utilizados en este proyecto son:
 Estos datasets contienen información sobre artistas musicales, número de
 oyentes y canciones con mayor número de reproducciones.
 
-## Procesamiento de datos
+Procesamiento de datos
 
 Para preparar los datos se realizaron los siguientes pasos:
 
@@ -28,7 +28,7 @@ Para preparar los datos se realizaron los siguientes pasos:
 - Conversión de variables a formato numérico
 - Separación de columnas para facilitar el análisis
 
-## Análisis exploratorio de datos (EDA)
+ Análisis exploratorio de datos (EDA)
 
 Durante el análisis se realizaron:
 
@@ -37,7 +37,7 @@ Durante el análisis se realizaron:
 - Análisis de canciones con mayor número de streams
 - Relación entre número de oyentes y streams
 
-## Visualización de datos
+ Visualización de datos
 
 Se generaron diferentes visualizaciones utilizando:
 
@@ -50,7 +50,7 @@ Entre las principales visualizaciones se incluyen:
 - Relación entre número de streams y oyentes
 - Distribución de streams
 
-## Conclusiones
+Conclusiones
 
 El análisis muestra que existe una relación positiva entre el número de streams
 y el número de oyentes de un artista.
